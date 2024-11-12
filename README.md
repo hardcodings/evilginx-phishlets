@@ -7,11 +7,11 @@ developer > https://t.me/pysmart
 
 # WHAT IS PHISHLET ?
 Phishlet is a tool that captures credentials and cookies of original websites, this is called reverse proxy.
-With a phishlet, you can easily clone any website by redirecting users to the original URL while users autoatically parse the data through the phishlet server interacting between the users and the original websites.
+With a phishlet, you can easily clone any website by redirecting users to the original URL while users automatically parse the data through the phishlet server interacting between the users and the original websites.
 
 # HOW TO SETUP PHISHLET ?
-I created some phishlets as it is in the repository and I am also available for any customized phishlet is needed that definitely. These captures users' credentials and cookies.
-Message developer to interact phishlet requests 
+I created some phishlets as it is in the repository and I am also available for any customized phishlet that is needed definitely. These captures users' credentials and cookies.
+Message developer to interact about phishlet requests 
 
 DEVELOPER: https://t.me/pysmart 
 
