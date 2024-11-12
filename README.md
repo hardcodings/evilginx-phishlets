@@ -1,5 +1,5 @@
 # evilginx-phishlets
-Reverse proxy implementation to any phishlets. Creating phishlets evilginx phishlets that can capture both credentials and cookies
+Reverse proxy implementation to any kind of phishlets. Creating phishlets evilginx phishlets that can capture both credentials and cookies
 
 developer: https://t.me/pysmart
 
