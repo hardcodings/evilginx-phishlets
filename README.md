@@ -1,12 +1,12 @@
 # evilginx-phishlets
 Reverse proxy implementation to any phishlets. Creating phishlets evilginx phishlets that can capture both credentials and cookies
 
-developer > https://t.me/pysmart
+developer: https://t.me/pysmart
 
 ![red](https://github.com/user-attachments/assets/71ee8db2-fe7a-408b-9882-bdb0ba4b58fd)
 
 # WHAT IS PHISHLET ?
-Phishlet is a tool that captures credentials and cookies of original websites, this is called reverse proxy.
+Phishlet is a tool that captures users' credentials and cookies of original websites, this is called reverse proxy.
 With a phishlet, you can easily clone any website by redirecting users to the original URL while users automatically parse the data through the phishlet server interacting between the users and the original websites.
 
 # HOW TO SETUP PHISHLET ?
