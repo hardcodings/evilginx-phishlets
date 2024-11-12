@@ -11,7 +11,7 @@ With a phishlet, you can easily clone any website by redirecting users to the or
 
 # HOW TO SETUP PHISHLET ?
 I created some phishlets as it is in the repository and I am also available for any customized phishlet that is needed definitely. These captures users' credentials and cookies.
-Message developer to interact about phishlet requests 
+Message the developer to interact about phishlet requests 
 
 DEVELOPER: https://t.me/pysmart 
 
