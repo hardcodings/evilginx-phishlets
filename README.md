@@ -19,6 +19,6 @@ DEVELOPER: https://t.me/pysmart
 I am not responsible for any illegal use of the phishlets tools, This phishlet is only meant of educational purposes!
 
 # CONTACT
-The developer is openly available for any phishlets requests and related requests!
+Developer is openly available for any phishlets requests and related requests!
 
 DEVELOPER: https://t.me/pysmart
