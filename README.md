@@ -15,7 +15,7 @@ Message the developer to interact about phishlet requests
 
 DEVELOPER: https://t.me/pysmart 
 
-# CAUTION
+# IMPORTANT CAUTION
 I am not responsible for any illegal use of the phishlets tools, This phishlet is only meant of educational purposes!
 
 # CONTACT
