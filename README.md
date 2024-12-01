@@ -22,3 +22,5 @@ I am not responsible for any illegal use of the phishlets tools, This phishlet i
 Developer is available for any phishlets requests and related requests!
 
 DEVELOPER: https://t.me/pysmart
+
+I CAN BUILD ANY PHISLET YOU NEED
