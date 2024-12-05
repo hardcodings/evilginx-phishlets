@@ -23,4 +23,4 @@ Developer is available for any phishlets requests and related requests!
 
 DEVELOPER: https://t.me/pysmart
 
-I CAN BUILD ANY PHISLET YOU NEED
+I CAN BUILD ALL PHISLETS YOU NEED
